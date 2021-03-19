@@ -9,13 +9,31 @@ html {
 }
 
 body {
-color: #222;
-margin: 0;
-padding: 1rem;
+  color: #222;
+  margin: 0;
+  padding: 1rem;
+  font-size: 1em;
 }
 
-h1 {
+article {
+  margin: 0;
+  padding: 1rem;
+}
+
+article header {
+  line-height: 0.5;
+}
+
+article h1 {
   font-size: 1.5rem;
   color: #222;
   font-weight: normal;
+}
+
+article header p {
+  font-style: italic;
+}
+
+article p {
+
 }
