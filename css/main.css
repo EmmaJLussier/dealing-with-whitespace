@@ -16,6 +16,7 @@ body {
   padding-top: 0;
   padding-bottom: 0;
   font-size: 1em;
+  border: 2px;
 }
 
 article {
@@ -27,7 +28,6 @@ article {
 article header {
   margin: 0;
   border-bottom: 2px;
-  border-color: #999;
 }
 
 article h1 {
