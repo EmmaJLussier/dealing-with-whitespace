@@ -21,8 +21,6 @@ body {
 
 article {
   margin: 0;
-  padding-right: 1rem;
-  padding-left: 1rem;
 }
 
 article header {
@@ -46,7 +44,7 @@ article p {
 }
 
 article ol {
-  padding: 0;
+  padding: 1rem;
 }
 
 blockquote {
