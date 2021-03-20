@@ -27,6 +27,8 @@ article {
 
 article header {
   margin: 0;
+  border-bottom: 2px;
+  border-color: #999;
 }
 
 article h1 {
