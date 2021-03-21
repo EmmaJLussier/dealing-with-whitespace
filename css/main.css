@@ -22,7 +22,6 @@ body {
 
 article {
   margin: 0;
-  border-bottom: 1px solid #999;
 }
 
 article header {
@@ -64,4 +63,9 @@ blockquote {
 
 blockquote .quote:first-child {
   margin-left: -.3em;
+}
+
+article > p:last-child {
+  padding-bottom: 1.3rem;
+  border-bottom: 1px solid #999;
 }
