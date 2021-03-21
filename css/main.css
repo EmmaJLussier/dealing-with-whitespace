@@ -22,13 +22,13 @@ body {
 
 article {
   margin: 0;
-  border-bottom: 2px solid #999;
+  border-bottom: 1px solid #999;
 }
 
 article header {
   margin: 0;
   border-bottom: 1px;
-  border-bottom: 2px solid #999;
+  border-bottom: 1px solid #999;
 }
 
 article h1 {
