@@ -61,3 +61,7 @@ blockquote {
 .quote {
   color: #999;
 }
+
+blockquote .quote:first-child {
+  margin-left: -.3em;
+}
