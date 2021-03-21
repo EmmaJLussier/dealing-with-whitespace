@@ -28,6 +28,7 @@ article header {
   margin: 0;
   border-bottom: 1px;
   border-bottom: 1px solid #999;
+  margin-bottom: 1.3rem;
 }
 
 article h1 {
@@ -45,6 +46,7 @@ article header p {
 article p {
   padding: 0;
   margin-bottom: 1.3rem;
+  margin-top: 1rem;
 }
 
 article ol {
